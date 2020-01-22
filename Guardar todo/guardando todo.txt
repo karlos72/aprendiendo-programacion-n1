@@ -6,4 +6,8 @@ Git init = solo 1 vez la primera ;v no usarlo mas :v
 Git add . = Añade todo los cambios y listo 
 Git status= es para saber si se agregaron o no los cambios ese  es el 1 comando 
 Git commit -m "Aprender programacion n 1" = Este es el que guarda TODO CIEGO LEA
-git push -u origin master =Siempre al final
+git push 
+
+
+git log                         Para ver las verciones
+git log --oneline
